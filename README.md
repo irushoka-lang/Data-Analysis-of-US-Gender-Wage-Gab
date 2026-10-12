@@ -39,7 +39,7 @@ The project uses data cleaning, transformation, exploratory data analysis, and v
 
 The **final HTML report** presents the complete analysis, visualizations, interpretation of findings, conclusion, and references.
 
-Open `Final Report.html` in a web browser to explore the report.
+Download the `Final Report.html` and explore the final report.
 
 
 
